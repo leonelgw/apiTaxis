@@ -1,5 +1,5 @@
 {
-  "tarifa"[
+  "tarifa":[
       {"base": 351},
       {"km": 175.5},
       {"incrementoNocturnoPorcentaje": 20}
